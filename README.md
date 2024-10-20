@@ -1,2 +1,2 @@
 # Finance
-Este repositorio contiene reportes y visualizaciones relacionados con la gestión  financiera de la empresa
+Este repositorio contiene reportes y visualizaciones relacionados con la gestión  financiera de la empresa. Está diseñado para mejorar la administración financiera mediante el análisis de datos y la presentación clara de información clave. Las visualizaciones permitirán obtener insights valiosos para la toma de decisiones, optimizando el flujo de caja, seguimiento de cuentas por pagar y otros aspectos fundamentales de las finanzas de la empresa.
